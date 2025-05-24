@@ -15,7 +15,11 @@ pip install -r requirements.txt
 [Output Video](https://github.com/user-attachments/assets/914fa147-5408-489c-81e9-7df5871b032c)
 
 
+## midas using the output value 
+![frame_0000_depth_results_detailed (1)](https://github.com/user-attachments/assets/5edff1df-dffb-4db9-93f9-1670a1e4b83c)
 
+![frame_0004_comparison](https://github.com/user-attachments/assets/dfc87d33-fc55-4de9-9f17-e01d565435a7)
+![frame_0000_depth_results_detailed](https://github.com/user-attachments/assets/552e62ad-6325-44c4-a766-b5fd6427e03c)
 
 
 ## Video Processing and Image Extraction
